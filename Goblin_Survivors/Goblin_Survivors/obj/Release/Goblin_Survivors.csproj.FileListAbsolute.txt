@@ -1,0 +1,12 @@
+E:\C#\Goblin_Survivors\Goblin_Survivors\bin\Release\Goblin_Survivors.exe.config
+E:\C#\Goblin_Survivors\Goblin_Survivors\bin\Release\Goblin_Survivors.exe
+E:\C#\Goblin_Survivors\Goblin_Survivors\bin\Release\Goblin_Survivors.pdb
+E:\C#\Goblin_Survivors\Goblin_Survivors\obj\Release\Goblin_Survivors.MainForm.resources
+E:\C#\Goblin_Survivors\Goblin_Survivors\obj\Release\Goblin_Survivors.GameOver_Form.resources
+E:\C#\Goblin_Survivors\Goblin_Survivors\obj\Release\Goblin_Survivors.MainMenu.resources
+E:\C#\Goblin_Survivors\Goblin_Survivors\obj\Release\Goblin_Survivors.Properties.Resources.resources
+E:\C#\Goblin_Survivors\Goblin_Survivors\obj\Release\Goblin_Survivors.Shop.resources
+E:\C#\Goblin_Survivors\Goblin_Survivors\obj\Release\Goblin_Survivors.csproj.GenerateResource.cache
+E:\C#\Goblin_Survivors\Goblin_Survivors\obj\Release\Goblin_Survivors.csproj.CoreCompileInputs.cache
+E:\C#\Goblin_Survivors\Goblin_Survivors\obj\Release\Goblin_Survivors.exe
+E:\C#\Goblin_Survivors\Goblin_Survivors\obj\Release\Goblin_Survivors.pdb
